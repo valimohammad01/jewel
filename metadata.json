@@ -1,0 +1,6 @@
+{
+  "name": "Barakah Jewellery",
+  "description": "Premium Anti Tarnish and Crystal Jewellery boutique by Waiza Tahir in Kanpur",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

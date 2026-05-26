@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --color-brand-blue: #bfe5ef;
+  --color-brand-gold: #ffbd59;
+  --color-brand-green: #bbcd73;
+  --color-brand-gray: #f2f2f2;
+  --color-brand-pink: #ffe5ec;
+  --color-brand-rose: #ff85a1;
+  --color-brand-accent: #f472b6;
+}
+
+/* Custom smooth scrolling and soft boutique backgrounds */
+html {
+  scroll-behavior: smooth;
+  background-color: #fdf7f8; /* Dreamy soft girlish blush cream background */
+  color: #2e2625; /* Warm deep charcoal */
+  font-family: var(--font-sans);
+}
+
+body {
+  background-color: #fdf7f8;
+}
+
+/* Elegant luxury custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fdf7f8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f3dfde;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #e3c8c7;
+}
