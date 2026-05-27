@@ -5,7 +5,7 @@
 
 import { Sparkles, ShoppingBag } from 'lucide-react';
 import { BRAND_INFO } from '../data';
-import wpHero from '../assets/clover_mop.jpeg';
+import wpHero from './assets/clover_mop.jpeg';
 
 interface HeroProps {
   onShopClick: () => void;
