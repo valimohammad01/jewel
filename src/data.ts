@@ -3,14 +3,14 @@
 import { Product, Testimonial, InstagramPost } from './types';
 
 // Real jewelry product photos uploaded by the user
-import wp24054 from './assets/clover_mop.jpeg';
-import wp24055_1 from './assets/beaded_colorful.jpeg';
-import wp24055_2 from './assets/clover_bracelet.jpeg';
-import wp24055 from './assets/beaded_tray.jpeg';
-import wp24056_2 from './assets/clover_multi.jpeg';
-import wp24056 from './assets/clover_hands.jpeg';
-import wp24057_1 from './assets/clover_radial.jpeg';
-import wp24057 from './assets/heart_necklace.jpeg';
+import wp24054 from './components/assets/clover_mop.jpeg';
+import wp24055_1 from './components/assets/beaded_colorful.jpeg';
+import wp24055_2 from './components/assets/clover_bracelet.jpeg';
+import wp24055 from './components/assets/beaded_tray.jpeg';
+import wp24056_2 from './components/assets/clover_multi.jpeg';
+import wp24056 from './components/assets/clover_hands.jpeg';
+import wp24057_1 from './components/assets/clover_radial.jpeg';
+import wp24057 from './components/assets/heart_necklace.jpeg';
 
 export const BRAND_INFO = {
   name: 'Barakah',
